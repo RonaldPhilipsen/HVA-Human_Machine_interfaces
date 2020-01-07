@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29521.150
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "face detector", "Facial\face detector.pyproj", "{E858E59E-61DF-4922-9867-993BBC260635}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "faceRecognition", "FacialRecognition\faceRecognition.pyproj", "{2AEE7001-3E0B-4D9E-9AFA-7568EE1CFA13}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Gesture", "Gesture\Gesture.pyproj", "{BF3099F8-8720-46AD-8698-62D944C066A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E858E59E-61DF-4922-9867-993BBC260635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E858E59E-61DF-4922-9867-993BBC260635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEE7001-3E0B-4D9E-9AFA-7568EE1CFA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEE7001-3E0B-4D9E-9AFA-7568EE1CFA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3099F8-8720-46AD-8698-62D944C066A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3099F8-8720-46AD-8698-62D944C066A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FC0F49F-1C49-490E-B70F-D32204DA085D}
+	EndGlobalSection
+EndGlobal
